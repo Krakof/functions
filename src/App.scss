@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+.App {
+  padding: 40px 20px;
+  text-align: left;
+}
+
+.schedule ul {
+  list-style: none;
+  padding: 0;
+}
+
+.input-group {
+  max-width: 35%;
+  margin-right: 10px;
+}
+
+.store-time {
+  margin-left: 20px;
+}
+
+
